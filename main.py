@@ -16,6 +16,6 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
 # This is a test branch
-# Morgen push pull beine?
+# Morgen push pull Beine?
 # This is a test branch 2
 # fetch tests
